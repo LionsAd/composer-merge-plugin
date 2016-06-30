@@ -1,6 +1,6 @@
 {
-    "name": "wikimedia/composer-merge-plugin",
-    "description": "Composer plugin to merge multiple composer.json files",
+    "name": "lionsad/composer-merge-plugin-fork",
+    "description": "Composer plugin to merge multiple composer.json files (Temporary fork)",
     "type": "composer-plugin",
     "license": "MIT",
     "authors": [
